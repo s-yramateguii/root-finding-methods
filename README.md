@@ -23,7 +23,7 @@ The derivative \( f'(x) \), required for Newton-Raphson, is:
 
 ### 2. Bisection Method
 - Starts with an interval $$[x_l, x_r] = [-0.7, -0.4]$$.
-- Iteratively refines the midpoint \( x_c \) of the interval:
+- Iteratively refines the midpoint $$x_c$$ of the interval:
   $$x_c = \frac{x_l + x_r}{2}$$
 - Stops when $$|f(x)| < 10^{-6}$$ or after 100 iterations.
 
