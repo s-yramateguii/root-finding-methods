@@ -3,12 +3,12 @@
 This Python script implements two numerical methods—**Newton-Raphson** and **Bisection**—to approximate the root of $$f(x)=0$$
 
 ## Problem Definition
-The target function \( f(x) \) is defined as:
+The target function $$f(x)$$ is defined as:
 <p align="center">
   $$ f(x) = x \sin(3x) - e^x $$
 </p>
 
-### Derivative of \( f(x) \)
+### Derivative of $$f(x)$$
 The derivative \( f'(x) \), required for Newton-Raphson, is:
 <p align="center">
   $$ f'(x) = \sin(3x) + 3x \cos(3x) - e^x $$
