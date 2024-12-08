@@ -5,9 +5,8 @@ This Python script implements two numerical methods—**Newton-Raphson** and **B
 ## Problem Definition
 
 The target function \( f(x) \) is defined as:
-\[
-f(x) = x \sin(3x) - e^x
-\]
+![f(x)](https://github.com/user-attachments/assets/e8cc8acc-bd70-4cbc-98ee-51627312c4a5)
+
 
 ### Derivative of \( f(x) \)
 The derivative \( f'(x) \), required for Newton-Raphson, is:
